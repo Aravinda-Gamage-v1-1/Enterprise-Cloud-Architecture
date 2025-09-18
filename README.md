@@ -10,7 +10,7 @@ It provides an end-to-end example of how to **develop, containerize, and deploy*
 
 The repository contains the following modules:
 
-* **course-service** → Spring Boot + MySQL
+* **course-service** → Spring Boot + MySQL - cloud deployment scaffolding for AWS & GCP
 * **student-service** → Spring Boot + MongoDB
 * **media-service** → Spring Boot + Local file storage (extensible to S3/MinIO)
 * **frontend-app** → React + TypeScript
