@@ -6,6 +6,14 @@ It provides an end-to-end example of how to **develop, containerize, and deploy*
 
 ---
 
+## Author  
+
+| Name               | Student ID      | Email                            | GitHub                                                    |
+|--------------------|-----------------|----------------------------------|-----------------------------------------------------------|
+| Ashen Sumudu Aravinda | 2301682016   | aravindagamage1998@gmail.com     | [GitHub Profile](https://github.com/Aravinda-Gamage-v1-1) |
+
+---
+
 ## Repository Structure
 
 The repository contains the following modules:
@@ -144,7 +152,7 @@ The system can be deployed across **AWS** and **Google Cloud Platform (GCP)**.
 
 ## Demo
 
-🎥 [Watch the Demo](#)
+🎥 [Watch the Demo](https://drive.google.com/file/d/1HYeuhJeCZKfSxCYFo37x30YX7pv5dOtL/view?usp=sharing)
 
 ---
 
