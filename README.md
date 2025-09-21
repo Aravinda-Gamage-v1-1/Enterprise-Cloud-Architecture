@@ -152,7 +152,7 @@ The system can be deployed across **AWS** and **Google Cloud Platform (GCP)**.
 
 ## Demo
 
-🎥 [Watch the Demo](https://drive.google.com/file/d/1HYeuhJeCZKfSxCYFo37x30YX7pv5dOtL/view?usp=sharing)
+🎥 [Watch the Demo](https://drive.google.com/file/d/18fw68TR0NWvbqgsSHC48fQCzT8tNx_00/view?usp=share_link)
 
 ---
 
